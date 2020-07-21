@@ -122,16 +122,20 @@ Construire un bâtiment peut permettre de réaliser plusieurs *Contrats* d'un co
 
 Contrats à 1 case :
 - **Machine Picsou :** +1 PO (x5)
+
 Contrats à 2 cases :
 - **Épicerie JemLarjan :** +2 PO (x3)
 - **Statue Citédor :** +2 points (x3)
+
 Contrats à 3 cases :
 - **Arène Poquéboule :** +3 points (x2)
 - **Bricoflex :** immunise contre *Outils de mauvaise facture* (x2)
 - **Agence QCAF :** immunise contre *Laissez-passer A38* (x2)
+
 Contrats à 4 cases :
 - **Magasin HyperThune :** +4 PO (x1)
 - **Musée des Musées :** +5 points (x1)
+
 Contrats à 5 cases :
 - **Stade de Kidditch :** +6 points (x1)
  
