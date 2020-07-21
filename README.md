@@ -17,19 +17,19 @@ Pour chacun des 4 joueurs, 36 pions de couleur bleue/rouge/jaune/verte :
 - 12 Construction
  
 En ce qui concerne les cartes (total : 5 + 20 + 65 = 90):
-5 cartes *Ville*
-20 cartes *Contrat*
-12 cartes *Gain de Pièces* (6x "+1", 3x "+2", 2x "+3" et 1x "+4")
-8 cartes *Annulation*
-5 cartes *Vol de Contrat*
-5 cartes *Sabotage*
-5 cartes *Grève*
-5 cartes *Démolition*
-5 cartes *Achat Forcé*
-5 cartes *Expert en Formulaires*
-5 cartes *Laissez-Passer A38*
-5 cartes *Ouvriers Surqualifiés*
-5 cartes *Outils de Mauvaise Facture*
+- 5 cartes *Ville*
+- 20 cartes *Contrat*
+- 12 cartes *Gain de Pièces* (6x "+1", 3x "+2", 2x "+3" et 1x "+4")
+- 8 cartes *Annulation*
+- 5 cartes *Vol de Contrat*
+- 5 cartes *Sabotage*
+- 5 cartes *Grève*
+- 5 cartes *Démolition*
+- 5 cartes *Achat Forcé*
+- 5 cartes *Expert en Formulaires*
+- 5 cartes *Laissez-Passer A38*
+- 5 cartes *Ouvriers Surqualifiés*
+- 5 cartes *Outils de Mauvaise Facture*
  
 ## Mise en place
  
