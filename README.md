@@ -157,7 +157,9 @@ En cas de nouvelle égalité, les joueurs sont déclarés ex æquo.
 Il est bien entendu possible de jouer avec plusieurs des variantes ci-dessous au cours d'une même partie (du moment qu'elles ne se contredisent pas entre elles).
  
 **Enchères :** dans cette variante, le prix de vente d'un *Permis* ou d'un *Chantier* (voir section Tour de jeu) n'est pas fixé par les règles : c'est le vendeur qui décide du prix initial (à l'instar de la vente d'un *Contrat* dans les règles de base). Les autres joueurs peuvent alors débattre du prix, et lorsqu'un accord est trouvé, le vendeur vend au plus offrant (ou selon son goût).
+
 **Contractuelle :** dans cette variante, la partie ne se termine plus à la fin du mini-calendrier, mais seulement lorsque la pioche de *Contrats* est vide et que tous les *Contrats* présents chez les joueurs ont été réalisés.
+
 **Haute densité :** dans cette variante, la partie ne se termine que lorsque le plateau ne possède plus aucune parcelle libre (il peut donc être recouvert à la fois par des *Permis*, des *Chantiers* ou des *Constructions*).
  
 ## Annexes/historique du projet
