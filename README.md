@@ -8,7 +8,7 @@
  
 - 1 plateau de jeu de 8*8 parcelles
 - 1 mini-calendrier + 1 marqueur calendrier
-- 4 cartes Aide de jeu
+- 4 cartes *Aide de jeu*
 - 60 pions Pièce d'Or (PO)
  
 Pour chacun des 4 joueurs, 36 pions de couleur bleue/rouge/jaune/verte :
