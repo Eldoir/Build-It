@@ -89,17 +89,29 @@ Construire un bâtiment peut permettre de réaliser plusieurs *Contrats* d'un co
 ## Récapitulatif des cartes
  
 **Ville :** définit la façon de gagner des points au cours d'une partie. La carte est divisée en 3 sections : la section "3 ⭐️", qui montre quelle forme de bâtiment il faut construire pour remporter 3 points. Les sections "2 ⭐️" et "1 ⭐️" fonctionnent de la même manière, pour remporter respectivement 2 points et 1 point lors de la construction.
+
 **Contrat :** demande de réaliser un bâtiment en suivant son plan. Si le bâtiment est construit, le joueur remporte la récompense indiquée par le *Contrat* (ce peut être un gain immédiat de PO, un gain de points à comptabiliser en fin de partie, ou encore l’immunité contre un certain type de cartes).
+
 **Gain de Pièces :** fait immédiatement gagner le montant de PO indiqué sur la carte.
+
 **Annulation :** c'est la seule carte qui peut être jouée à n'importe quel moment, y compris durant le tour d'un autre joueur. Elle permet d'annuler purement et simplement l'effet de n'importe quelle autre carte (même une autre carte *Annulation*), sauf les cartes *Contrat*.
+
 **Vol de Contrat :** permet de prendre au hasard un *Contrat* dans la main d'un joueur. Il n'est pas possible de voler un *Contrat* déjà réalisé.
+
 **Sabotage :** ôte le pion *Permis de construire* d’un joueur de la parcelle ciblée.
+
 **Grève :** fait revenir une parcelle de l’état *Chantier* à l’état *Permis de Construire*. Pour jouer la carte, il faut payer 1 PO. On enlève alors le pion *Chantier* de ce joueur de la parcelle ciblée, et on le remplace par un pion *Permis* lui appartenant.
+
 **Démolition :** fait revenir l’ensemble des parcelles d’un bâtiment de l’état *Construit* à l’état *Permis de Construire*. Pour jouer la carte, il faut payer 2 PO par parcelle du bâtiment à détruire (2 PO si le bâtiment ne fait qu’1 parcelle, 4 PO si le bâtiment occupe 2 parcelles, etc). On ne peut jouer la carte que si l’on paye suffisamment pour pouvoir détruire toutes les parcelles du bâtiment d’un coup. On enlève alors les pions *Construction* de ce joueur des parcelles occupées par le bâtiment ciblé, et on les remplace par des pions *Permis* lui appartenant.
+
 **Achat Forcé :** force un joueur à nous vendre une parcelle en état *Permis de construire*. Pour jouer la carte, il faut payer 1 PO à ce joueur. On enlève alors le pion *Permis* de ce joueur de la parcelle ciblée, et on place le sien.
+
 **Expert en Formulaires :** réduit le coût d’un *Permis de construire* d’1 PO (à garder devant soi et à défausser lors de la réalisation de son prochain *Permis de construire*).
+
 **Laissez-Passer A38 :** augmente le coût d’un *Permis de construire* d’1 PO (le joueur à qui on donne cette carte la garde devant lui et la défausse lors de la réalisation de son prochain *Permis de construire*).
+
 **Ouvriers Surqualifiés :** réduit le coût d’un *Chantier* d’1 PO (à garder devant soi et à défausser lors de la réalisation de son prochain *Chantier*).
+
 **Outils de Mauvaise Facture :** augmente le coût d’un *Chantier* d’1 PO (le joueur à qui on donne cette carte la garde devant lui et la défausse lors de la réalisation de son prochain *Chantier*).
  
 ## Récapitulatif des Villes
