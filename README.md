@@ -16,7 +16,7 @@ Pour chacun des 4 joueurs, 36 pions de couleur bleue/rouge/jaune/verte :
 - 12 Chantier
 - 12 Construction
  
-En ce qui concerne les cartes (total : 5 + 20 + 65 = 90):
+En ce qui concerne les cartes (total : 5 + 20 + 65 = 90) :
 - 5 cartes *Ville*
 - 20 cartes *Contrat*
 - 12 cartes *Gain de Pièces* (6x "+1", 3x "+2", 2x "+3" et 1x "+4")
