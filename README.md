@@ -1,4 +1,4 @@
-# Build It (Règles du jeu)
+# Build It (Règles du jeu) v0.1.0
  
 ## Introduction
  
