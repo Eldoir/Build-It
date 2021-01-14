@@ -1,7 +1,5 @@
 # Build It (Règles du jeu) *v0.2.1*
  
-## Introduction
- 
 *Build It* est un jeu de construction pour 2 à 4 joueurs. Les joueurs doivent construire les bâtiments demandés en priorité par la ville, et réaliser des contrats pour gagner un maximum de points. Ils devront faire preuve de stratégie, de ruse... et d’un peu de chance !
  
 ## Matériel
