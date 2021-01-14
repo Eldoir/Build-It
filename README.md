@@ -12,7 +12,7 @@
 - 60 pions Pièce d'Or (PO)
 - Des points de victoire
  
-Pour chacun des 4 joueurs, des pions de couleur bleue/rouge/jaune/verte :
+Pour chacun des joueurs, des pions de couleur bleue/rouge/jaune/verte :
 - 18 pions Chantier
 - 18 pions Bâtiment
  
