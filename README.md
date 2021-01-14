@@ -57,7 +57,7 @@ Le tour d'un joueur se déroule de la façon suivante :
 
 Il peut ensuite effectuer les actions suivantes dans l'ordre qu'il souhaite :
 - **Jouer une carte Contrat** (**1** fois) : jouer une carte *Contrat* de sa main et la poser devant lui : le *Contrat* est dit *actif* et il peut alors être réalisé.
-- **Jouer une carte Action** (**1** fois) : jouer une carte *Action* de sa main.
+- **Jouer une carte Action** (**1** fois) : jouer une carte *Action* de sa main. Une fois l'effet de la carte résolu, elle est défaussée.
 - **Mettre en chantier** (**∞** fois) : placer un de ses pions *Chantier* sur une parcelle libre du plateau (coût : **1 PO**).
 - **Construire** (**∞** fois) : cibler un de ses groupes de pions *Chantier* adjacents et les remplacer par autant de ses pions *Bâtiment* (coût : **3 PO**). Voir la section *Construction* pour plus de détails.
  
