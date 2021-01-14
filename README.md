@@ -140,6 +140,7 @@ En cas de nouvelle égalité, les joueurs sont déclarés ex æquo.
 - Les joueurs sont limités par la quantité de pions *Chantier* et *Bâtiment* dont ils disposent : si un joueur désire placer l'un de ses pions, mais qu'ils sont déjà tous sur le plateau, alors il ne peut pas effectuer cette action.
 - Si un joueur est censé gagner des PO mais qu'il n'en reste plus en banque, il peut utiliser tout ce qui lui passe par la main pour faire office de petite monnaie. L'important étant que la quantité de PO en banque est **virtuellement illimitée**.
 - Il est possible d'utiliser un *Switch* sur un *Contrat* auquel est attachée la carte *Contrat en Or* : les deux cartes reviennent alors au nouveau propriétaire.
+- Le *Contrat en Or* n'a de sens que sur un *Contrat* dont la récompense est quantifiable : il n'ajoute rien de plus à un *Contrat* qui, par exemple, immunise contre un certain type de cartes (puisqu'on ne peut pas "être immunisé 2 fois").
 - Jouer une *Annulation* à son propre tour pour contrer l'*Annulation* d'un joueur adverse ne compte pas comme la carte *Action* autorisée pour ce tour : ce qui signifie que l'on peut jouer autant de cartes *Annulation* que l'on désire à son propre tour, **EN PLUS** de la carte *Action* qu'on a le droit de jouer ce tour.
 - Si un joueur souhaite piocher une carte dans une pioche vide, on remélange la défausse pour constituer une nouvelle pioche.
 
