@@ -52,7 +52,7 @@ Les joueurs jouent à tour de rôle et les tours des joueurs se succèdent dans 
 Le tour d'un joueur se déroule de la façon suivante :
  
 - Le joueur prend **2 PO** dans la banque : c'est son *revenu*.
-- Le joueur paye **1 PO** à la banque pour chacun de ses *Contrats* actifs au-delà du premier : c'est l'*impôt*. S'il n'a qu'un seul *Contrat* actif, ou aucun, il ne paye rien. S'il n'a pas de quoi payer l'*impôt*, il se défausse des *Contrats* de son choix jusqu'à pouvoir payer immédiatement.
+- Le joueur paye **1 PO** à la banque pour chacun de ses *Contrats* actifs au-delà du premier : c'est l'*impôt*. S'il n'a qu'un seul *Contrat* actif, ou aucun, il ne paye rien. S'il n'a pas de quoi payer l'*impôt*, il se défausse des *Contrats* actifs de son choix jusqu'à pouvoir payer immédiatement.
 - Il pioche **1** carte face cachée **SOIT** dans la pioche *Contrats*, **SOIT** dans la pioche *Actions* selon son choix.
 
 Il peut ensuite effectuer les actions suivantes dans l'ordre qu'il souhaite :
